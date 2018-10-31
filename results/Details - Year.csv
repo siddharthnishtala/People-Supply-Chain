@@ -1,0 +1,13 @@
+Month,Headcount,Number of billable resources,Number of benched resources,Number of new hires,Number of demanded resources,Number of demanded resources - fulfilled,Number of demanded resources - unfulfilled,Number of resignations (billable resources),Number of resignations (benched resources),Number of resignations (billable resources) - replaced,Number of planned hires
+1,9833,9566,267,0,190,26,164,162,5,98,297
+2,9669,9475,194,0,325,26,299,159,5,42,443
+3,9806,9588,218,297,462,132,330,157,4,138,587
+4,10103,9776,327,443,289,193,96,144,3,139,394
+5,10524,9828,696,587,104,59,45,160,7,153,251
+6,10769,10159,610,394,333,333,0,149,0,147,293
+7,10848,10479,369,251,360,325,35,166,6,161,462
+8,10975,10711,264,293,373,242,131,157,9,147,555
+9,11263,11063,200,462,409,354,55,167,11,165,486
+10,11656,11474,182,555,449,415,34,159,4,155,355
+11,11960,11793,167,486,326,319,7,178,4,178,327
+12,12000,11840,160,218,188,47,141,178,0,178,464
